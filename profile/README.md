@@ -19,6 +19,8 @@ Other runs you *study why it works*.
 
 Both are progress.
 
+[![Activate Now](../btn.png)](https://megabonk-trainers.github.io/.github/)
+
 ---
 
 ## 🧰 Trainer Features
